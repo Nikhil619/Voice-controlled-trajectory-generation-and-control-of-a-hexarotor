@@ -4,8 +4,6 @@
 @author: Nikhil
 """
 
-
-#function [F, M] = controller(t, state, des_state, params)
 def controller(state, des_state, params):   
     
     """
